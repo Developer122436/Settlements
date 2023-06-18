@@ -13,7 +13,7 @@ Creating BI dashboards from scratch with work on big data that show all the tax 
 
 The big data was taken from multiple websites and sources.
 
-Worked on the project with Power BI, DWH, Excel, Python, SQL & MSSQL.
+Worked on the project with Power BI, DAX, DWH, Excel, Python, SQL & MSSQL.
 
 Project Stages:
 * ETL process
