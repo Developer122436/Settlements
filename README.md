@@ -7,7 +7,7 @@ The video shows the dashboard (Click on the photo)
 [![Dashboard](https://github.com/Developer122436/Settlements/blob/main/Photo.JPG)](https://youtu.be/vdtQVExOuWQ)
 
 
-Settlements-Project-PowerBI:
+# Settlements-Project-PowerBI:
 
 Creating BI dashboards for a settlement in Israel that shows all the tax rates and the population year to year in certain settlements.
 The data was taken from multiple websites and sources.
@@ -15,36 +15,36 @@ The data was taken from multiple websites and sources.
 Worked on the project with Power BI, DWH, Excel, Python, SQL & MSSQL.
 
 Project Stages:
-ETL process
+* ETL process
 
 Creating dashboards using:
-KPI's
-Slicers
-Tables
-Scatter charts
-Maps
+* KPI's
+* Slicers
+* Tables
+* Charts
+* Maps
 
 Filters:
-Visual level
-Page level
-Report level
-Top 10 filter
-Interaction
-Custom tooltip
-Drill through
-Drill down 3 ways
-Bookmarks
+* Visual level
+* Page level
+* Report level
+* Top 10 filter
+* Interaction
+* Custom tooltip
+* Drill through
+* Drill down 3 ways
+* Bookmarks
 
 Dax calculation formulas:
-Calculate
-Filter
-SumX
-Related
-All
-TotalYTD
-TotalQTD
-TotalMTD
-SamePeriodLastYear
-Variables
+* Calculate
+* Filter
+* SumX
+* Related
+* All
+* TotalYTD
+* TotalQTD
+* TotalMTD
+* SamePeriodLastYear
+* Variables
 
 
