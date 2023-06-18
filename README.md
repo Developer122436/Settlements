@@ -9,7 +9,7 @@ The video shows the dashboard (Click on the photo)
 
 # Settlements-Project-PowerBI:
 
-Creating BI dashboards from scratch with work on big data that show all the tax rates and the population year to year in all settlements in Israel.
+Creating BI dashboards from scratch with work on more than 100,000 big data that show all the tax rates and the population year to year in all settlements in Israel.
 
 The big data was taken from multiple websites and sources.
 
