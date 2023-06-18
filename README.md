@@ -1,6 +1,6 @@
-The video explains about the DWH of the project (Click on the photo)
+The video explains the DWH of the project (Click on the photo)
 
-[![DimFact](https://github.com/Developer122436/Settlements/blob/main/Photo.JPG)](https://youtu.be/DOJCN270vGo)
+[![DimFact](https://github.com/Developer122436/Settlements/blob/main/DWH.JPG)](https://youtu.be/DOJCN270vGo)
 
 The video shows the dashboard (Click on the photo)
 
