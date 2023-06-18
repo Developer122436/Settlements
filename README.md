@@ -22,9 +22,12 @@ Creating dashboards using:
 * KPI's
 * Slicers
 * Tables
-* Charts
+* Charts - Clustered bar, Clustered column
 * Maps
-
+* Hamburger
+* Images
+* Bookmarks
+  
 Filters:
 * Visual level
 * Page level
@@ -34,18 +37,14 @@ Filters:
 * Custom tooltip
 * Drill through
 * Drill down 3 ways
-* Bookmarks
+
 
 Dax calculation formulas:
 * Calculate
-* Filter
-* SumX
+* Divide
+* SUM
 * Related
 * All
-* TotalYTD
-* TotalQTD
-* TotalMTD
-* SamePeriodLastYear
 * Variables
 
 
