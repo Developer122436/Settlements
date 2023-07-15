@@ -1,5 +1,5 @@
 Link - Live:
-https://app.powerbi.com/groups/me/reports/6bed34d7-2c39-482d-915b-f57b3864dab2/ReportSection43735b9623515ba017c6?experience=power-bi&bookmarkGuid=Bookmark3685234a98eb39964fb8](https://app.powerbi.com/view?r=eyJrIjoiMmJhMjI1YzYtZjU2My00YjM1LTgyMmMtOWU0OTJhMzY5NzY1IiwidCI6IjAzY2FiNzc2LTAzMzEtNGQ4OC1hNjhjLWUwZjI5MjI3NDNlNiIsImMiOjh9)
+[https://github.com/Developer122436/Settlements/blob/main/README.md](https://app.powerbi.com/view?r=eyJrIjoiMmJhMjI1YzYtZjU2My00YjM1LTgyMmMtOWU0OTJhMzY5NzY1IiwidCI6IjAzY2FiNzc2LTAzMzEtNGQ4OC1hNjhjLWUwZjI5MjI3NDNlNiIsImMiOjh9)
 
 The video explains the DWH of the project (Click on the photo)
 
