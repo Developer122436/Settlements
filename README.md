@@ -1,5 +1,5 @@
 Link - Live:
-[https://github.com/Developer122436/Settlements/blob/main/README.md](https://app.powerbi.com/view?r=eyJrIjoiMmJhMjI1YzYtZjU2My00YjM1LTgyMmMtOWU0OTJhMzY5NzY1IiwidCI6IjAzY2FiNzc2LTAzMzEtNGQ4OC1hNjhjLWUwZjI5MjI3NDNlNiIsImMiOjh9)
+https://app.powerbi.com/view?r=eyJrIjoiMmJhMjI1YzYtZjU2My00YjM1LTgyMmMtOWU0OTJhMzY5NzY1IiwidCI6IjAzY2FiNzc2LTAzMzEtNGQ4OC1hNjhjLWUwZjI5MjI3NDNlNiIsImMiOjh9
 
 The video explains the DWH of the project (Click on the photo)
 
